@@ -19,23 +19,7 @@ Please refer to the project's style and contribution guidelines for submitting p
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
 
-NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/Webwiznitr/MilkERP/blob/master/CONTRIBUTING.md).
-
-NOTE 2: Please abide by the [Code of Conduct](https://github.com/Webwiznitr/MilkERP/blob/master/CODE_OF_CONDUCT.md).
-
-<br>
-
-## The whole project will be created on basic html, css and javascript so beginners can also contribute.
- 
-## Home Page 
-- It will contain all the topics for which roadmaps are available.
-
-## Page for every topic
-- It will contain links to various resources like videos, free courses or blogs and the order in which they should be referred.
-
-More Details are coming soon follow the repo to stay updated.
-
-## Contributors ✨
+## Major Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -47,12 +31,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=Aniket762" title="Code">💻</a> <a href="https://github.com/Webwiznitr/Project-basil/commits?author=Aniket762" title="Documentation">📖</a></td>
     <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars3.githubusercontent.com/u/63084088?v=4" width="100px;" alt=""/><br /><sub><b>Sumana Basu</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=sumana2001" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/kanchitank"><img src="https://avatars3.githubusercontent.com/u/65490196?v=4" width="100px;" alt=""/><br /><sub><b>Kanchi Tank</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=kanchitank" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/AbhishekLwagun"><img src="https://avatars0.githubusercontent.com/u/69157459?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=AbhishekLwagun" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/aleenajoseph993"><img src="https://avatars0.githubusercontent.com/u/62883961?v=4" width="100px;" alt=""/><br /><sub><b>Aleena Joseph</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=aleenajoseph993" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://colina.dev/"><img src="https://avatars2.githubusercontent.com/u/31748140?v=4" width="100px;" alt=""/><br /><sub><b>Abigail Colina</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=maenad" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/AnkitSingh-zm"><img src="https://avatars3.githubusercontent.com/u/66105983?v=4" width="100px;" alt=""/><br /><sub><b>Ankit Singh</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=AnkitSingh-zm" title="Code">💻</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/sajeeb007"><img src="https://avatars0.githubusercontent.com/u/62443848?v=4" width="100px;" alt=""/><br /><sub><b>sajeeb007</b></sub></a><br /><a href="https://github.com/Webwiznitr/Project-basil/commits?author=sajeeb007" title="Code">💻</a></td>
   </tr>
 </table>
